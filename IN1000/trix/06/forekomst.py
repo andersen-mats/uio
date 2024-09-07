@@ -30,5 +30,3 @@ def flest_forekomster(liste):
 liste = les_tall_fra_fil("tall.txt")
 print(antall_forekomster(liste, 2))
 print(flest_forekomster(liste))
-
-
