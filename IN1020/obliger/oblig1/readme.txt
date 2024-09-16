@@ -5,6 +5,8 @@ taster inn korrekt PLU-kode, eller taster 0.
 
 Det sjekker hvilken PLU-kode det er vha. BRZ-kommandoen.
 
+Eple har plu-koden 111, tomat har plu-koden 222.
+
 Naar en korrekt PLU-kode er registrert, maa brukeren taste inn antall.
 Viktig: dersom brukeren her taster inn 0, vil programmet spoerre igjen.
 
